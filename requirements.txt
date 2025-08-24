@@ -1,0 +1,15 @@
+# Core
+python-dotenv==1.0.1
+requests==2.31.0
+pandas==2.2.2
+
+# Visualization & Dashboard
+streamlit==1.32.0
+plotly==5.20.0
+
+# Azure IoT
+azure-iot-device==2.13.0
+azure-eventhub==5.11.4
+
+# Optional (for scheduling, threading, etc.)
+schedule==1.2.0
