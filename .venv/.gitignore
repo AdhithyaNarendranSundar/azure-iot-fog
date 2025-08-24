@@ -1,0 +1,28 @@
+# Ignore Python cache
+
+**pycache**/
+\*.pyc
+
+# Virtual environment
+
+.venv/
+
+# Data logs
+
+data/\*.csv
+telemetry\_log.csv
+
+# Secrets
+
+.env
+.env.example
+
+# OS files
+
+.DS\_Store
+Thumbs.db
+
+# IDE files
+
+.vscode/
+.idea/
